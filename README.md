@@ -55,8 +55,8 @@ If you encounter issues with compiling or deploying, consult the [Solidity docum
 
 ## Authors
 
-- [Sheriff Oladimeji]  
-  [@ollycreatif]
+- Sheriff Oladimeji  
+  [@ollycreatif](https://github.com/ollycreatif/Avalanche-Project)
 
 ## License
 
